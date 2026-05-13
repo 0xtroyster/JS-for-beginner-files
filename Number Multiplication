@@ -1,0 +1,4 @@
+const price = 15;
+const quantity = 3;
+const totalCost = price * quantity;
+console.log("Total cost:", totalCost);
